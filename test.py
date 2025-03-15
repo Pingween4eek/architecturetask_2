@@ -1,2 +1,3 @@
 print("I'am Learn git")
-print("three")
+print("S")
+print("chetire")
